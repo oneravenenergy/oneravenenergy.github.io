@@ -80,6 +80,7 @@ img
     max-width: 100%;
     min-width: 150px;
     height: auto;
+	position: relative;
 }
 
 	@-ms-viewport {
@@ -2648,6 +2649,7 @@ img
    			 max-width: 100%;
   			  min-width: 150px;
  			   height: auto;
+			position: relative;
 		}
 
 		.image.left, .image.right {
