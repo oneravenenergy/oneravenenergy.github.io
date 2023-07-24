@@ -78,7 +78,7 @@ input, select, textarea {
 img
 {
     max-width: 100%;
-    min-width: 300px;
+    min-width: 150px;
     height: auto;
 }
 
@@ -2646,7 +2646,7 @@ img
 			display: block;
 			border-radius: 4px;
    			 max-width: 100%;
-  			  min-width: 200px;
+  			  min-width: 150px;
  			   height: auto;
 		}
 
